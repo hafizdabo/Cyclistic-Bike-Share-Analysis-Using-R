@@ -20,7 +20,7 @@ Lily Moreno, who is the director of marketing and my manager, has assigned me th
 DATA SOURCE:
 For the purpose of this project, I have obtained Cyclistic's historical trip data from https://divvy-tripdata.s3.amazonaws.com/index.html (Divvy_Trips_2019_Q2, Divvy_Trips_2019_Q3, Divvy_Trips_2019_Q4, Divvy_Trips_2020_Q1). The data has been made available by Motivate International Inc. 
 
-The project is done completely using R Programming. Kindly check the html file for the complete analysis and details of the steps taken. Thank you.
+The project is done completely using R Programming, and knitted to html and pdf files. Kindly check the HTML or PDF files for the complete analysis and details of the steps taken. Thank you.
 
 For any correction, recommendation, or contribution, please reach out to me via any of the following:
 * hafizdabo@gmail.com
