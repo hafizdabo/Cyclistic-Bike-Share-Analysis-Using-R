@@ -1,4 +1,4 @@
-# Cyclistic-Ride-Share-Analysis
+# Cyclistic-Bike-Share-Analysis
 This is the final project of the Google Data Analytics Professional Certificate (Capstone), where I am charged with the task of working for a fictional company, Cyclistic.
 
 
